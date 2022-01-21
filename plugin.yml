@@ -1,0 +1,16 @@
+name: HarderMobs
+version: 0.0
+description: Increases certain mob stats, like speed and strength
+api-version: 1.15
+load: STARTUP
+author: RandomPersson
+authors: []
+website: https://discord.gg/RmDbKqq
+
+main: pl.org.mensa.rp.mc.HarderMobs.HarderMobsPlugin
+database: false
+depend: []
+prefix: 
+softdepend: []
+loadbefore: []
+
